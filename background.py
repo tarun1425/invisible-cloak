@@ -1,5 +1,4 @@
 import cv2
-# this is webcam
 cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
